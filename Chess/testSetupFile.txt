@@ -1,0 +1,2 @@
+﻿blu,pawn,A8
+red,pawn,H1
